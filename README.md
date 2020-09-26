@@ -1,4 +1,4 @@
-# TSF-Supervised-Machine-Learning
+# The Sparksfoundation- Data science and Machine-Learning
 #TASK 2
 In this regression task we will predict the percentage of
 marks that a student is expected to score based upon the
