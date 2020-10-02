@@ -17,3 +17,13 @@ TAsk-4=create the Decision Tree classifier and visualize it graphically. The pur
 dataset- https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view?usp=sharing
 
 https://github.com/sachinkatageri/GRIP-TSF/blob/master/Task4_Decision_Tree_Algo.ipynb
+
+
+
+
+Task 5 - Exploratory Data Analysis’ on the provided dataset ‘SampleSuperstore’
+You are the business owner of the retail firm and want to see how your company is performing. You are interested in finding out the weak areas where you can work to make more profit. What all business problems you can derive by looking into the data? You can choose any of the tool of your choice (Python/R/Tableau/PowerBI/Excel).
+
+dataset-https://drive.google.com/file/d/1lV7is1B566UQPYzzY8R2ZmOritTW299S/view
+
+https://github.com/sachinkatageri/GRIP-TSF/blob/master/task_5_EDA.ipynb
